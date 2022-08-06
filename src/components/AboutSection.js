@@ -29,16 +29,12 @@ const AboutStyles = styled.div`
   }
   .about__img {     
     img {      
-      border-radius: 4rem;
       object-fit: contain;
 }
       }
   @media only screen and (max-width: 768px) {
     .about__wrapper {
       flex-direction: column;
-    }
-    .about__img {
-      max-width: 400px;
     }
   }
 `;
