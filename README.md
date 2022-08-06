@@ -1,4 +1,4 @@
-<img src="" alt="NineStudios" />
+<img src="https://raw.githubusercontent.com/Adrenaline9/NineStudios/main/src/assets/images/image7.jpg" alt="NineStudios" />
 
 ## NineStudios
 
