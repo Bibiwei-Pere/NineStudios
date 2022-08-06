@@ -75,7 +75,7 @@ function HeroSection() {
           </div>
           <div className="hero__img">
             <img
-              src="https://github.com/Adrenaline9/P1/blob/main/src/assets/images/image1.png?raw=true"
+              src="https://github.com/Adrenaline9/NineStudios/blob/main/src/assets/images/image1.png?raw=true"
               alt="NineStudio"
             />
           </div>
