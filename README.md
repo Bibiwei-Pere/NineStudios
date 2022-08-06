@@ -4,8 +4,6 @@
 
 **Live preview: [https://nine-studios.netlify.app/](https://nine-studios.netlify.app/)**
 
-**Watch on YouTube: [https://youtu.be/DTR2IbNBfPA](https://youtu.be/DTR2IbNBfPA)**
-
 ---
 
 ### Created by [Adrenaline Nine](https://t.me/Adrenaline_Nine)
