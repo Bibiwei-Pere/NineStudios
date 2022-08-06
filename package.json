@@ -1,0 +1,31 @@
+{
+  "name": "adrenaline9-ninestudios-mtoz5d",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "run": "1.4.0",
+    "build": "0.1.4",
+    "react": "17.0.2",
+    "deploy": "1.0.3",
+    "netlify": "12.0.0",
+    "react-is": "18.2.0",
+    "react-dom": "17.0.2",
+    "@types/node": "16.11.47",
+    "netlify-cli": "10.15.0",
+    "react-icons": "4.4.0",
+    "react-scroll": "1.8.7",
+    "normalize.css": "8.0.1",
+    "react-scripts": "4.0.3",
+    "styled-components": "5.2.2",
+    "@fontsource/poppins": "4.5.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
