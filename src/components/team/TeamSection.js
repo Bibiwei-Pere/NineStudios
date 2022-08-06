@@ -57,17 +57,17 @@ function TeamSection() {
           </div>
           <div className="team__members">
             <TeamMemberItem
-              img="https://raw.githubusercontent.com/Adrenaline9/P1/main/src/assets/images/image3.jpg"
+              img="https://raw.githubusercontent.com/Adrenaline9/NineStudios/main/src/assets/images/image3.jpg"
               name="Stacy Lincoln"
               title="CEO"
             />
             <TeamMemberItem
-              img="https://raw.githubusercontent.com/Adrenaline9/P1/main/src/assets/images/image5.jpg"
+              img="https://raw.githubusercontent.com/Adrenaline9/NineStudios/main/src/assets/images/image5.jpg"
               name="Jeremy Bibiwei"
               title="Photo Editor"
             />
             <TeamMemberItem
-              img="https://raw.githubusercontent.com/Adrenaline9/P1/main/src/assets/images/image6.jpg"
+              img="https://raw.githubusercontent.com/Adrenaline9/NineStudios/main/src/assets/images/image6.jpg"
               name="Manuel Etim"
               title="Photographer"
             />
