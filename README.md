@@ -14,31 +14,31 @@ Like my works and want to support me?
 
 ---
 
-### Project Description
+## Project Description
 
 NineStudios is a landing page for a photography studio. It is a well-designed and `responsive` landing page with `dark mode` feature. It's basically created with `react js`.
 
 
-```
+---
 
-### Tools Used
+## Tools Used
 
 1. Images: [Unsplash](https://unsplash.com/)
 1. UI Design: [Figma](https://www.figma.com/)
 1. Code Editor: [VS Code](https://code.visualstudio.com/)
 
-### Other projects
+## Other projects
 
 📚 [All Adrenaline Nine Projects](https://github.com/Adrenaline9/A9-projects)
 
 
 ---
 
-### Feedback
+## Feedback
 
 If you have any feedback, please send us an email at adrenaline.nine0@gmail.com
 
-### License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
