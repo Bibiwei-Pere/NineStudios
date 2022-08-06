@@ -10,13 +10,14 @@
       content="Web site created using create-react-app"
     />
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
-    <script type="module">
-      import sdk from 'https://unpkg.com/@stackblitz/sdk@1/bundles/sdk.m.js';
-        sdk.openProject({
+    <script src="https://unpkg.com/@stackblitz/sdk/bundles/sdk.umd.js">
+      StackBlitzSDK.openProject(
+        {
             title: `My First Docs!`,
               description: `This is an example of my first doc!`
               }
-        });
+        
+      )
     </script>
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
