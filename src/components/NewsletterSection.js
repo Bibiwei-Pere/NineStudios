@@ -44,7 +44,7 @@ const NewsletterStyles = styled.div`
       font-weight: bold;
       text-transform: capitalize;
       color: var(--black);
-      background-color: var(--lightBlue_2);
+      background-color: var(--white);
       border: 1px solid var(--black);
       border-radius: 4px;
       transition: 0.3s ease background-color;
