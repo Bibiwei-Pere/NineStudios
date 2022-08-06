@@ -30,8 +30,6 @@ const AboutStyles = styled.div`
   .about__img {     
     img {      
       border-radius: 4rem;
-      max-height: 500px;
-      max-width: 10000px;
       object-fit: contain;
 }
       }
