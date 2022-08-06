@@ -52,8 +52,8 @@ function AboutSection() {
         <div className="about__wrapper">
           <div className="about__img">
             <img
-              src="https://github.com/Adrenaline9/P1/blob/main/src/assets/images/image2.png?raw=true"
-              alt="NineStudio"
+              src="https://github.com/Adrenaline9/NineStudios/blob/main/src/assets/images/image2.png?raw=true"
+              alt="NineStudios"
             />
           </div>
           <div className="about__info">
