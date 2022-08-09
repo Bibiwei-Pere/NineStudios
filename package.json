@@ -1,6 +1,9 @@
 {
   "name": "adrenaline9-ninestudios-mtoz5d",
   "version": "0.0.0",
+  "author": "adrenaline nine",
+  "description": "landing page for a photography studio",
+  "keywords": ["react", "dark mode", "responsive"],
   "private": true,
   "dependencies": {
     "@fontsource/poppins": "4.5.8",
