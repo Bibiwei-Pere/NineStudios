@@ -10,7 +10,7 @@
 
 Like my works and want to support me?
 
-<a href="https://www.buymeacoffee.com/adrenaline9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/.png" alt="Buy Me A Coffee" style="height: 45px !important; background-color: traffic-green; width: 162.75px !important;" ></a>
+<a href="https://www.buymeacoffee.com/adrenaline9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 45px !important; width: 162.75px !important;" ></a>
 
 ---
 
