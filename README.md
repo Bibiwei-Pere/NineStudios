@@ -34,7 +34,7 @@ NineStudios is a landing page for a photography studio. It is a well-designed an
 
 ## Feedback
 
-If you have any feedback, please send us an email at adrenaline.nine0@gmail.com
+If you have any feedback, please send us an email at nine.adrenaline@gmail.com
 
 ## License
 
