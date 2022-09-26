@@ -2,7 +2,7 @@
 
 ## NineStudios
 
-**Live preview: [https://nine-studios.netlify.app/](https://nine-studios.netlify.app/)**
+**Live preview: [https://ninestudios.netlify.app/](https://ninestudios.netlify.app/)**
 
 ---
 
