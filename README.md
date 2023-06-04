@@ -6,36 +6,41 @@
 
 ---
 
-### Created by [Adrenaline Nine](https://t.me/Adrenaline_Nine)
+## How to use
 
-Like my works and want to support me?
+1. `Fork repository`
 
-<a href="https://www.buymeacoffee.com/adrenaline9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 45px !important; width: 162.75px !important;" ></a>
+2. `Clone to vs code`
 
----
+3. Open Command prompt and run `npm install`
 
-## Project Description
-
-NineStudios is a landing page for a photography studio. It is a well-designed and `responsive` landing page with `dark mode` feature. It's basically created with `react js`.
+4. Lastly run `npm start` and enjoy
 
 ---
 
 ## Tools Used
 
-1. Images: [Unsplash](https://unsplash.com/)
-1. UI Design: [Figma](https://www.figma.com/)
-1. Code Editor: [VS Code](https://code.visualstudio.com/)
+1. Images: [pexels](https://www.pexels.com/)
+
+2. UI Design: [Figma](https://www.figma.com/)
+
+3. Code Editor: [VS Code](https://code.visualstudio.com/) and [Stackblitz](https://stackblitz.com/)
 
 ## Other projects
 
-📚 [All Adrenaline Nine Projects](https://github.com/Adrenaline9/A9-projects)
+📚 [All Bibiwei Pere's Projects](https://github.com/Bibiwei-Pere/All-projects)
+
+---
+
+### Created by [Bibiwei Pere](https://www.facebook.com/profile.php?id=100074182476935)
+
+Like my works and want to support me?
+
+<a href="https://www.buymeacoffee.com/adrenaline9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 45px !important; width: 162.75px !important;" ></a>
 
 ---
 
 ## Feedback
 
-If you have any feedback, please send us an email at nine.adrenaline@gmail.com
+If you have any feedback, please send an email at bibiweipere@gmail.com
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
